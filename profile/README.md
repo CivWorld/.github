@@ -3,7 +3,7 @@ this is the github organization for CivWorld, an in development bleeding edge ge
 
 
 # Credits
-Thank you to **Sophomania** for developing our custom fork of flagwar, as well as developing for townyAI.
+Thank you to **Sophomania** for developing our custom fork of flagwar, Several critical WorldCore features such as TNT++, as well as developing for townyAI.
 
 Thank you to **Flintstqne** for developing TownyCivics, our extensions of Towny's geopolitical systems. 
 
