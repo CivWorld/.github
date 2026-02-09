@@ -1,5 +1,5 @@
-# CivWorld
-this is the github organization for CivWorld, an in development bleeding edge geopolitical minecraft server. Most of our respositories are private, and will continue to be private for the lifetime of the server.
+# Battria
+this is the github organization for Battria, an in development bleeding edge geopolitical minecraft server. Most of our respositories are private, and will continue to be private for the lifetime of the server.
 
 
 # Credits
