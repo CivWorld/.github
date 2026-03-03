@@ -5,7 +5,7 @@ this is the github organization for Battria, an in development bleeding edge geo
 # Credits
 Thank you to **Sophomania** for developing our custom fork of flagwar, several critical WorldCore features such as TNT++, co-designing and developing vitality, as well as developing for townyAI- particularly the war integration for citystates.
 
-Thank you to **Flintstqne** for developing TownyCivics, our bespoke extension of Towny's geopolitical systems, as well as co-designing and developing Banishment.
+Thank you to **Flintstqne** for developing TownyCivics, our bespoke extension of Towny's geopolitical systems, as well as co-designing and developing Banishment, and developing Boutique.
 
 Thank you to **Asdeo** for contributing to the development of our fighter bots, as well as contributing builds for townyAI, and helping manage/administrate the server and head our communications.
 
@@ -13,4 +13,4 @@ Thank you to _______ for tuning our PVP.
 
 Thank you to **Ceedric** for maintaining our custom server jar.
 
-Thank you to **Sheepy** for developing and designing townyAI, designing TownyCivics, codesigning Vitality and Banishment, development of our fighter bots, and developing our website. 
+Thank you to **Sheepy** for developing and designing townyAI, designing TownyCivics, codesigning Vitality, Banishment, Boutique, development of our fighter bots, and developing our website. 
